@@ -2,7 +2,7 @@ Hello world! ✋ 🙋‍♂️
 
 I'm a hard-working and passionate Computer Science and Engineering’s student with huge dreams! 💻 🖱️
 
-I'm currently finishing an Integrated Master (BSc. + MSc. Bologna Degrees) at Faculty of Science and Technology of New University of Lisbon (FCT NOVA | FCT/UNL). 👨‍🎓 🎓
+I'm currently finishing an Integrated Master (BSc. + MSc. Bologna Degrees) at School of Science and Technology of NOVA University of Lisbon (FCT NOVA). 👨‍🎓 🎓
 
 I learned the necessary tools and methodologies to solve any kind of problem and master any Programming Language, Framework, API, or Technology! 🏁 🏅
 
