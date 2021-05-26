@@ -15,7 +15,10 @@ I'm strongly motivated by my goals and ambitions, never giving up of them and I'
 In Informatics field, I like Logic, Computer Networks, Computer Graphics, Multimedia Computing, Artificial Intelligence, Distributed Systems, Edge/Fog Computing, Cloud Computing, Network & Internet Security, Cryptography, Concurrent & Parallel Systems, High Performance Computing, GPU Programming, Machine Learning, Deep Learning, Autonomous Multi-Agent Systems, Robotics and Quantum Computing. 🧠 💡
 
 Here, are important links, where you can follow some of my academic and personal projects/works: 🌐 🔗
-- https://github.com/rubenandrebarreiro/ | https://gitlab.com/rubenandrebarreiro/ | https://bitbucket.com/rubenandrebarreiro/ | https://dev.azure.com/rubenandrebarreiro/
+- https://github.com/rubenandrebarreiro/
+- https://gitlab.com/rubenandrebarreiro/
+- https://bitbucket.com/rubenandrebarreiro/
+- https://dev.azure.com/rubenandrebarreiro/
 
 Here, you can also, check my GitHub's and Google's Portfolios/Personal Blogs: ✍️ 🔗
 - https://rubenandrebarreiro.github.io/
@@ -30,6 +33,7 @@ And here, are my Personal and Academic E-Mails: 📧 📥
 I sincerely, hope you enjoy it! 👌 🙏
 
 If you have any doubts, don't hesitate to contact me! 👨 👍
+
 
 Kind regards,
 Rúben André Letra Barreiro.
