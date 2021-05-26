@@ -1,16 +1,38 @@
-### Hi there 👋
+Hello world! ✋ 🙋‍♂️
 
-<!--
-**rubenandrebarreiro/rubenandrebarreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hard-working and passionate Computer Science and Engineering’s student with huge dreams! 💻 🖱️
 
-Here are some ideas to get you started:
+I'm currently finishing an Integrated Master (BSc. + MSc. Bologna Degrees) at Faculty of Science and Technology of New University of Lisbon (FCT NOVA | FCT/UNL). 👨‍🎓 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learned the necessary tools and methodologies to solve any kind of problem and master any Programming Language, Framework, API, or Technology! 🏁 🏅
+
+I have a huge eagerness to learn and improve myself everyday, professionally and personally. I have a deep passion for IT and technologies areas. 👨‍💻 🖥️
+
+But I also have a big interest in fashion, sports, design, graphics, photography, multimedia, music, blogging and traveling. 👔 ⚽ ✏️ 📸 🎥 🎵 ✈️
+
+I'm strongly motivated by my goals and ambitions, never giving up of them and I'm easy to get along with! 💪 🏆
+
+In Informatics field, I like Logic, Computer Networks, Computer Graphics, Multimedia Computing, Artificial Intelligence, Distributed Systems, Edge/Fog Computing, Cloud Computing, Network & Internet Security, Cryptography, Concurrent & Parallel Systems, High Performance Computing, GPU Programming, Machine Learning, Autonomous Multi-Agent Systems, Robotics and Quantum Computing. 🧠 💡
+
+Here, are important links, where you can follow some of my academic and personal projects/works: 🌐 🔗
+- https://github.com/rubenandrebarreiro/
+- https://gitlab.com/rubenandrebarreiro/
+- https://bitbucket.com/rubenandrebarreiro/
+- https://dev.azure.com/rubenandrebarreiro/
+
+Here, you can also, check my GitHub's and Google's Portfolios/Personal Blogs: ✍️ 🔗
+- https://rubenandrebarreiro.github.io/
+- https://ruben-andre-barreiro-portfolio.com/
+
+And here, are my Personal and Academic E-Mails: 📧 📥
+- ruben.andre.letra.barreiro@gmail.com
+- ruben.andre.letra.barreiro@outlook.com
+- rubenandreletrabarreiro@yahoo.com
+- r.barreiro@campus.fct.unl.pt
+
+I sincerely, hope you enjoy it! 👌 🙏
+
+If you have any doubts, don't hesitate to contact me! 👨 👍
+
+Kind regards,
+Rúben André Letra Barreiro.
