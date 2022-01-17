@@ -14,7 +14,7 @@ But I also have a big interest in fashion, sports, design, graphics, photography
 
 I'm strongly motivated by my goals and ambitions, never giving up of them and I'm easy to get along with! 💪 🏆
 
-In Informatics field, I like Logic, Computer Networks, Computer Graphics, Multimedia Computing, Artificial Intelligence, Distributed Systems, Edge/Fog Computing, Cloud Computing, Network & Internet Security, Cryptography, Concurrent & Parallel Systems, High Performance Computing, GPU Programming, Machine Learning, Deep Learning, Autonomous Multi-Agent Systems, Robotics and Quantum Computing. 🧠 💡
+In Informatics field, I like Logic, Computer Networks, Computer Graphics, Multimedia Computing, Artificial Intelligence, Distributed Systems, Edge/Fog Computing, Cloud Computing, Network & Internet Security, Cryptography, Concurrent & Parallel Systems, High Performance Computing, GPU Programming, Machine Learning, Deep Learning, Autonomous Multi-Agent Systems, Robotics, Post-Quantum Cryptography, Quantum Cryptography, Quantum Communications and Quantum Computing. 🧠 💡
 
 Here, are important links, where you can follow some of my academic and personal projects/works: 🌐 🔗
 - https://github.com/rubenandrebarreiro/
@@ -30,7 +30,6 @@ And here, are my Personal and Academic E-Mails: 📧 📥
 - ruben.andre.letra.barreiro@gmail.com
 - ruben.andre.letra.barreiro@outlook.com
 - rubenandreletrabarreiro@yahoo.com
-- r.barreiro@campus.fct.unl.pt
 
 I sincerely, hope you enjoy it! 👌 🙏
 
