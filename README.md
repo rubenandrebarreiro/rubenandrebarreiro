@@ -2,7 +2,9 @@ Hello world! ✋ 🙋‍♂️
 
 I'm a hard-working and passionate Computer Science and Engineering’s student with huge dreams! 💻 🖱️
 
-I'm currently finishing an Integrated Master (BSc. + MSc. Bologna Degrees) at School of Science and Technology of NOVA University of Lisbon (FCT NOVA). 👨‍🎓 🎓
+I did an Integrated Master (BSc. + MSc. Bologna Degrees) at School of Science and Technology of NOVA University of Lisbon (FCT NOVA). 👨‍🎓 🎓
+
+At this moment, I'm currently working as a Secure Communications Junior Engineer at Elecnor Deimos! 💼 🐱‍💻
 
 I learned the necessary tools and methodologies to solve any kind of problem and master any Programming Language, Framework, API, or Technology! 🏁 🏅
 
