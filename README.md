@@ -2,9 +2,9 @@ Hello world! ✋ 🙋‍♂️
 
 I'm a hard-working and passionate Computer Science and Engineering’s student with huge dreams! 💻 🖱️
 
-I did an Integrated Master (BSc. + MSc. Bologna Degrees) at School of Science and Technology of NOVA University of Lisbon (FCT NOVA). 👨‍🎓 🎓
+I did an Integrated Master (BSc. + MSc. Bologna Degrees) on Computer Science and Engineering at NOVA School of Science and Technology of NOVA University of Lisbon (FCT NOVA), and I'm currenly doing a PhD. on Information Security at Instituto Superior Técnico of University of Lisbon (IST-UL). 👨‍🎓 🎓
 
-At this moment, I'm currently working as a Secure Communications Junior Engineer at Elecnor Deimos! 💼 🐱‍💻
+Additionally, I'm also working as a Security Officer at SIBS (Sociedade Inter-Bancária de Serviços): Partner in Payments! 💼 🐱‍💻
 
 I learned the necessary tools and methodologies to solve any kind of problem and master any Programming Language, Framework, API, or Technology! 🏁 🏅
 
@@ -30,6 +30,7 @@ And here, are my Personal and Academic E-Mails: 📧 📥
 - ruben.andre.letra.barreiro@gmail.com
 - ruben.andre.letra.barreiro@outlook.com
 - rubenandreletrabarreiro@yahoo.com
+- ruben.andre.letra.barreiro@tecnico.ulisboa.pt
 
 I sincerely, hope you enjoy it! 👌 🙏
 
