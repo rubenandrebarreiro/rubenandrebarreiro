@@ -2,7 +2,7 @@ Hello world! ✋ 🙋‍♂️
 
 I'm a hard-working and passionate Computer Science and Engineering’s student with huge dreams! 💻 🖱️
 
-I did an Integrated Master (BSc. + MSc. Bologna Degrees) on Computer Science and Engineering at NOVA School of Science and Technology of NOVA University of Lisbon (FCT NOVA). Now, I'm currenly doing a PhD. on Information Security at Instituto Superior Técnico of University of Lisbon (IST-UL). 👨‍🎓 🎓
+I did an Integrated Master (BSc. + MSc. Bologna Degrees) on Computer Science and Engineering at NOVA School of Science and Technology of NOVA University of Lisbon (FCT NOVA). Now, I'm currenly doing a PhD. on Information Security at Instituto Superior Técnico of University of Lisbon (IST - UL). 👨‍🎓 🎓
 
 Additionally, I'm also working as a Security Officer at SIBS (Sociedade Inter-Bancária de Serviços): Partner in Payments! 💼 🐱‍💻
 
