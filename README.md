@@ -4,7 +4,7 @@ I'm a hard-working and passionate Computer Science and Engineering student with 
 
 I did an Integrated Master (BSc. + MSc. Bologna Degrees) in Computer Science and Engineering at NOVA School of Science and Technology of NOVA University of Lisbon (NOVA SST). I'm currently doing a Ph.D. in Information Security at Instituto Superior Técnico of University of Lisbon (IST - UL). 👨‍🎓 🎓
 
-I'm also a Security Officer at SIBS (Sociedade Inter-Bancária de Serviços): Partner in Payments! 💼 🐱‍💻
+I'm also an Invited Assistant Professor at Faculdade de Ciências da Universidade de Lisboa (FCUL)! 💼 🐱‍💻
 
 I learned the necessary tools and methodologies to solve any kind of problem and master any Programming Language, Framework, API, or Technology! 🏁 🏅
 
